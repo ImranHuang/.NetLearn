@@ -1,0 +1,8 @@
+D:\学习\.NET\Methods\Methods\bin\Debug\Methods.exe.config
+D:\学习\.NET\Methods\Methods\bin\Debug\Methods.exe
+D:\学习\.NET\Methods\Methods\bin\Debug\Methods.pdb
+D:\学习\.NET\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+D:\学习\.NET\Methods\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+D:\学习\.NET\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\学习\.NET\Methods\Methods\obj\Debug\Methods.exe
+D:\学习\.NET\Methods\Methods\obj\Debug\Methods.pdb
