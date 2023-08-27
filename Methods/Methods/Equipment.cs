@@ -78,7 +78,7 @@ namespace Methods
 
         public List<Sensor> SensorsList { get; set; }
 
-
+        #region  实例方法
 
         /// <summary>
         /// 无参数无返回值方法
@@ -116,7 +116,29 @@ namespace Methods
             return this.SensorsArray.Where(s => s.Temperature > temeperature).ToArray();//大于指定温度的传感器存入数组中
 
         }
+        #endregion
 
+
+        #region  静态方法
+
+        /// <summary>
+        ///静态方法
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="pressure"></param>
+        /// 调用是通过类名+方法名使用
+        /// 不能直接调用字段，属性，方法，可以通过对象间接调用
+        /// <returns></returns>
+        public static  string GetstaticInfo(string name, double pressure)
+        {
+            Equipment equipment = new Equipment(2001, "KLM001", "KYJ-02");
+            string result = $"设备ID：{equipment.EquipID}设备名称：" + $"{name}压力：{pressure}采集时间：{equipment.CollectTime}";
+            return result;
+        }
+
+
+
+        #endregion
 
 
     }
