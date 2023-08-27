@@ -17,8 +17,19 @@ namespace Methods
         /// </summary>
         public Equipment() 
         {
+            //可以读取配置文件中的信息
 
+            //也可以初始化字段或者属性
+
+            this.EquipID = 200;
+            this.EquipName = "未知";
         }
+
+
+
+
+
+
         private int _equipID = 0;
         public int EquipID
         {
