@@ -1,8 +1,0 @@
-D:\学习\.NET\MyFirstClass\MyFirstClass\bin\Debug\MyFirstClass.exe.config
-D:\学习\.NET\MyFirstClass\MyFirstClass\bin\Debug\MyFirstClass.exe
-D:\学习\.NET\MyFirstClass\MyFirstClass\bin\Debug\MyFirstClass.pdb
-D:\学习\.NET\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.csproj.AssemblyReference.cache
-D:\学习\.NET\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.csproj.CoreCompileInputs.cache
-D:\学习\.NET\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.exe
-D:\学习\.NET\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.pdb
-D:\学习\.NET\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.csproj.SuggestedBindingRedirects.cache
